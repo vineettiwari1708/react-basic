@@ -1,0 +1,23 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "This is react project by Vineet",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vineettiwari1708/react-basic.git"
+  },
+  "keywords": [
+    "react",
+    "vineet"
+  ],
+  "author": "Vineet Tiwari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vineettiwari1708/react-basic/issues"
+  },
+  "homepage": "https://github.com/vineettiwari1708/react-basic#readme"
+}
